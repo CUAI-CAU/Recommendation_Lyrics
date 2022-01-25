@@ -6,4 +6,4 @@
 - 허인 (응용통계학과)
 
 ## Flow
-![Flow](https://github.com/CUAI-CAU/Recommendation_Lyrics/blob/main/image/flow.jpg)
+![Flow](https://github.com/CUAI-CAU/Recommendation_Lyrics/blob/main/image/pipeline.png)
